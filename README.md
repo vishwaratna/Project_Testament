@@ -13,7 +13,7 @@ deploy a Smart Contract which will automatically settle my inheritance delivered
 A traditional will is a legal document which documents who gets what, how much and when.
 At the time of execution of traditinal will, a Judge from court needs to revise the document and make the decision accordingily by passing the inheritance legally
 to respected parties.
-A common situation is that during the execusion of will family tends to get into feud on the ground of who gets what, and this leads to 
+A common situation is that during the execution of will family tends to get into feud on the ground of who gets what, and this leads to 
 neverending saltiness in family relations, and usually destroy the bonding between families.
 
 As the matter gets worst, the emotions and repetetive hearings could influence the decision of the judge, which could inturn result in unfair results.
